@@ -1,0 +1,27 @@
+cd E:\StockSmart
+
+cd E:\StockSmart\StockSmart
+
+cd backend
+.\mvnw.cmd spring-boot:run
+
+
+cd E:\StockSmart\StockSmart
+
+cd frontend 
+.\mvnw.cmd spring-boot:run
+
+
+http://localhost:8080
+
+
+
+
+
+
+cd E:\StockSmart\frontend
+npm install
+ng serve
+
+
+

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="16" fill="#fef3c7" />
+  <!-- Rice Sack -->
+  <path d="M30,35 C30,30 35,26 50,26 C65,26 70,30 70,35 L74,75 C74,80 68,84 50,84 C32,84 26,80 26,75 Z" fill="#d97706" />
+  <rect x="36" y="44" width="28" height="24" rx="3" fill="#fef9c3" />
+  <text x="50" y="58" font-size="9" font-weight="bold" fill="#b45309" text-anchor="middle" font-family="sans-serif">RICE</text>
+  <text x="50" y="66" font-size="6" fill="#b45309" text-anchor="middle" font-family="sans-serif">5 KG</text>
+</svg>
